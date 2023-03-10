@@ -6,7 +6,7 @@ func main() {
 	var (
 		i      int     = 21
 		j      bool    = true
-		russia int     = 'Я'
+		russia int     = '\u042F'
 		k      float64 = 123.456
 	)
 
